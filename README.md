@@ -1,6 +1,6 @@
 # Nginx Try
 
-A experiment project for [Nginx Learning](https://www.yuque.com/funan-ag8w7/rfcygg/laazg0). 
+An experiment project for [Nginx Learning](https://www.yuque.com/funan-ag8w7/rfcygg/laazg0). 
 
 ## How to run the project
 
